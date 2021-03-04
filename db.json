@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Air Jordan 4",
       "image": "/images/1.jpg",
-      "tags": "92 ",
-      "price": "59440",
+      "tags": "4 colors",
+      "price": "$3280",
       "status": "available"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Nike Paul George PG 3",
       "image": "/images/2.jpg",
       "tags": "25 Colors",
-      "price": "53800",
+      "price": "$2880",
       "status": "available"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Jordan Why Not Zer0.2",
       "image": "/images/3.jpg",
       "tags": "16 Color, y",
-      "price": "48900",
+      "price": "$2280",
       "status": "available"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Nike Air Foamposite One",
       "image": "/images/4.jpg",
       "tags": "84 Colors",
-      "price": "73148",
+      "price": "$4680",
       "status": "available"
     },
     {
@@ -37,7 +37,7 @@
       "name": "adidas Harden Vol.3",
       "image": "/images/5.jpg",
       "tags": "34 Colors",
-      "price": "46900",
+      "price": "$2200",
       "status": "available"
     },
     {
@@ -45,54 +45,54 @@
       "name": "Nike Zoom Kobe 1",
       "image": "/images/6.jpg",
       "tags": "26 Colors",
-      "price": "80391",
+      "price": "$2980",
       "status": "available"
     },
     {
       "id": 7,
       "name": "Nike Hyperdunk X(2018)",
       "image": "/images/7.jpg",
-      "tags": "",
-      "price": "54600",
+      "tags": "16 Colors",
+      "price": "$3490",
       "status": "available"
     },
     {
       "id": 8,
       "name": "Nike KD 12",
       "image": "/images/8.jpg",
-      "tags": "",
-      "price": "81800",
+      "tags": "4 Colors",
+      "price": "$3890",
       "status": "available"
     },
     {
       "name": "adidas D.O.N. Issue #1",
-      "price": "38800",
+      "price": "$3300",
       "status": "available",
-      "tags": "",
+      "tags": "2 Colors",
       "image": "/images/9.jpg",
       "id": 9
     },
     {
       "name": "adidas D.O.N. Issue #1",
-      "price": "48900",
+      "price": "$3100",
       "status": "available",
-      "tags": "",
+      "tags": "12 Colors",
       "image": "/images/10.jpg",
       "id": 10
     },
     {
       "name": "Nike Kyrie Flytrap",
-      "price": "34400",
+      "price": "$4290",
       "status": "available",
-      "tags": "",
+      "tags": "8 Colors",
       "image": "/images/11.jpg",
       "id": 11
     },
     {
       "name": "Air Jordan 3",
-      "price": "44900",
+      "price": "$1980",
       "status": "available",
-      "tags": "",
+      "tags": "5 Colors",
       "image": "/images/12.jpg",
       "id": 12
     }
